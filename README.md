@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zahra_sdt
 - 👀 I’m interested in programming(backend)
-- 🌱 I’m currently learning every thing
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on companies and freelancers
 - 📫 How to reach me in my bio
 
